@@ -1,0 +1,6 @@
+<<<<HEAD
+BRANCH CODE
+a=10,b=20
+========
+res=a+b
+>>>>>MAIN
